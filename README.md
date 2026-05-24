@@ -100,7 +100,7 @@ The system uses the following core tables to manage the domain:
 3. Update connection strings in `appsettings.Development.json` to point to your local DB instance.
 4. Apply database migrations (if using Entity Framework): `dotnet ef database update`
 5. Run the API: `cd SmartOfferBooking.API` -> `dotnet run`
-6. Access Swagger API Docs at `https://localhost:<port>/swagger`
+6. Access Swagger API Docs at `http://localhost:5165/swagger/`
 
 ---
 
