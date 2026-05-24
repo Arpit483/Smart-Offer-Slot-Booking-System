@@ -111,14 +111,27 @@ The system uses the following core tables to manage the domain:
 - **Database Schema/ER Diagram:** [Insert Link/Image Here]
 
 ### Screenshots
-*(Add screenshots here before final submission)*
-1. **Admin Login Page**
-2. **Admin Dashboard**
-3. **Create Offer Page**
-4. **Manage Offers / Bookings Page**
-5. **Public Offer Listing / Detail Page**
-6. **Booking Confirmation Page**
-7. **Swagger API Docs**
+
+<details>
+<summary>Click to view screenshots</summary>
+
+![Screenshot](Images/Screenshot%202026-05-24%20195549.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195557.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195612.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195621.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195658.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195705.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195710.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195722.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195729.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195742.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195749.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195803.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195809.png)
+![Screenshot](Images/Screenshot%202026-05-24%20195823.png)
+![Swagger API Docs](Images/swagger.png)
+
+</details>
 
 ---
 
