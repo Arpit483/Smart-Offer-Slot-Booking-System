@@ -107,7 +107,7 @@ The system uses the following core tables to manage the domain:
 ## 📌 Hackathon Submission Assets
 
 - **GitHub Repository:** ![Github](https://github.com/Arpit483/Smart-Offer-Slot-Booking-System)
-- **Demo Video (2-3 mins):** [Insert Link Here]
+- **Demo Video (2-3 mins):** ![Video](https://drive.google.com/drive/folders/1Yut3s16jJ7WtNSl22oUNzsxg0Mj0ZBwC?usp=sharing)
 - **Database Schema/ER Diagram:** ![ER-Diagram](PNG.png)
 
 ### Screenshots
