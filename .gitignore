@@ -1,0 +1,36 @@
+# =========================
+# Node.js (Frontend)
+# =========================
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# .NET (Backend)
+# =========================
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.[Cc]ache
+appsettings.Development.json
+
+# =========================
+# IDEs and OS
+# =========================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

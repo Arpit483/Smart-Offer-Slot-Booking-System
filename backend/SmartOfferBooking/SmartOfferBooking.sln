@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartOfferBooking.API", "SmartOfferBooking.API\SmartOfferBooking.API.csproj", "{EB57CAD6-9CAE-4FCB-B15C-5BB1DDC55A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartOfferBooking.Tests", "SmartOfferBooking.Tests\SmartOfferBooking.Tests.csproj", "{1D6A8A08-F73F-4391-97E5-6CF757B9D60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB57CAD6-9CAE-4FCB-B15C-5BB1DDC55A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB57CAD6-9CAE-4FCB-B15C-5BB1DDC55A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB57CAD6-9CAE-4FCB-B15C-5BB1DDC55A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB57CAD6-9CAE-4FCB-B15C-5BB1DDC55A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6A8A08-F73F-4391-97E5-6CF757B9D60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6A8A08-F73F-4391-97E5-6CF757B9D60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6A8A08-F73F-4391-97E5-6CF757B9D60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6A8A08-F73F-4391-97E5-6CF757B9D60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
